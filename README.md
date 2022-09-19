@@ -1,6 +1,6 @@
-# ng-conditional-validator
+# Angular library help you to build reactive forms dynamic validation
 
-Angular library help you to build reactive forms dynamic validation
+(Original Source: https://github.com/Yumitoya8569/ng-conditional-validator)
 
 ## Quickstart
 
