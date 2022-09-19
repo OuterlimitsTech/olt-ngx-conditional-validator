@@ -1,9 +1,27 @@
 {
-  "name": "ngx-conditional-validator",
-  "version": "0.0.1",
+  "name": "@outerlimitstech/ngx-conditional-validator",
+  "version": "14.0.0-beta.0",
+  "description": "Angular library to build reactive forms dynamic validation",
+  "bugs": "https://github.com/OuterlimitsTech/olt-ngx-conditional-validator/issues",
+  "homepage": "https://github.com/OuterlimitsTech/olt-ngx-conditional-validator#readme",
+  "repository": "https://github.com/OuterlimitsTech/olt-ngx-conditional-validator.git",
+  "license": "MIT",
+  "author": "Chris Straw",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "angular",
+    "conditional",
+    "validation",
+    "dynamic",
+    "reactive"
+  ],
   "peerDependencies": {
-    "@angular/common": "^14.0.0",
-    "@angular/core": "^14.0.0"
+    "@angular/common": ">=14.0.0 <15.0.0",
+    "@angular/core": ">=14.0.0 <15.0.0",
+    "@angular/forms": ">=14.0.0 <15.0.0",
+    "rxjs": ">=7.0.0 <8.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"

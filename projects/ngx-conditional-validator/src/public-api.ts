@@ -2,6 +2,6 @@
  * Public API Surface of ngx-conditional-validator
  */
 
-export * from './lib/ngx-conditional-validator.service';
-export * from './lib/ngx-conditional-validator.component';
-export * from './lib/ngx-conditional-validator.module';
+export * from './lib/conditional-validator';
+export * from './lib/conditional-validator-builder';
+export * from './lib/conditional-validator-helper';

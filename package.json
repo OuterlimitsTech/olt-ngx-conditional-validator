@@ -3,10 +3,11 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test-app": "ng serve test-app",
+    "build-lib": "ng build ngx-conditional-validator --configuration production",
+    "watch-lib": "ng build ngx-conditional-validator --watch --configuration development",
+    "test": "ng test",
+    "postbuild": "xcopy \"README.md\" \".\\dist\\ngx-conditional-validator\" /Y"
   },
   "private": true,
   "dependencies": {
