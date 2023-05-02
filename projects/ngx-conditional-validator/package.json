@@ -1,6 +1,6 @@
 {
   "name": "@outerlimitstech/ngx-conditional-validator",
-  "version": "14.0.0-beta.0",
+  "version": "14.0.0",
   "description": "Angular library to build reactive forms dynamic validation",
   "bugs": "https://github.com/OuterlimitsTech/olt-ngx-conditional-validator/issues",
   "homepage": "https://github.com/OuterlimitsTech/olt-ngx-conditional-validator#readme",
