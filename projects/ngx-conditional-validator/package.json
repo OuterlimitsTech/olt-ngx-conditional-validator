@@ -1,6 +1,6 @@
 {
   "name": "@outerlimitstech/ngx-conditional-validator",
-  "version": "14.0.0",
+  "version": "15.0.0",
   "description": "Angular library to build reactive forms dynamic validation",
   "bugs": "https://github.com/OuterlimitsTech/olt-ngx-conditional-validator/issues",
   "homepage": "https://github.com/OuterlimitsTech/olt-ngx-conditional-validator#readme",
@@ -18,9 +18,9 @@
     "reactive"
   ],
   "peerDependencies": {
-    "@angular/common": ">=14.0.0 <15.0.0",
-    "@angular/core": ">=14.0.0 <15.0.0",
-    "@angular/forms": ">=14.0.0 <15.0.0",
+    "@angular/common": ">=15.0.0 <16.0.0",
+    "@angular/core": ">=15.0.0 <16.0.0",
+    "@angular/forms": ">=15.0.0 <16.0.0",
     "rxjs": ">=7.0.0 <8.0.0"
   },
   "dependencies": {
